@@ -1,0 +1,1179 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+<!-- Modal Search Start -->
+<div class="modal fade" id="searchModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-fullscreen">
+        <div class="modal-content rounded-0">
+            <div class="modal-header">
+                <h5 class="modal-title" id="navbarCollapse">Search by keyword</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body d-flex align-items-center bg-primary">
+                <div class="input-group w-75 mx-auto d-flex">
+                    <input type="search" class="form-control p-3" placeholder="keywords" aria-describedby="search-icon-1">
+                    <span id="navbarCollapse" class="btn bg-light border nput-group-text p-3"><i class="fa fa-search"></i></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Modal Search End -->
+
+<!-- Carousel Start -->
+<div class="header-carousel owl-carousel overflow-hidden">
+    <div class="header-carousel-item hero-section d-flex">
+        <div class="hero-content col-lg-6 d-flex flex-column justify-content-center">
+            <div class="carousel-caption">
+                <div class="container">
+                    <div class="row g-4 align-items-center">
+                        <div class="col-lg-12 animated fadeInLeft">
+                            <div class="text-sm-center text-md-start">
+                                <h1 class="text-white text-uppercase fw-bold mb-4">P2P Analysis And Solution </h1>
+                                <h5 class=" text-white mb-4">Authorized Partner AVL Company </h5>
+                                <p class="mb-5 fs-5">
+                             @*        P2P ANALYSIS AND SOLUTIONS officially signed a partnership agreement with AVL INDIA PVT LTD to enhance the AVL Software and Testing Equipment sales, support, and manpower alignment in North India.
+                                    Relentless innovation in mechanical and computing technologies turns impossible challenges into groundbreaking solutions, making visionary ideas a reality.
+                             *@    </p>
+                                <div class="d-flex justify-content-center justify-content-md-start flex-shrink-0 mb-4">
+                                    <a class="btn btn-light py-3 px-4 px-md-5 me-2" href="#"><i class="fas fa-play-circle me-2"></i> Watch Video</a>
+                                    <a class="btn btn-primary py-3 px-4 px-md-5 ms-2" href="/User/AVLCOMPANY">Learn More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+       @*  <div class="hero-video col-lg-6">
+            <video autoplay loop muted>
+                <source src="~/Template/img/collapse.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </div> *@
+    </div>
+
+
+    <div class="header-carousel-item hero-section">
+        <div class="hero-bg-half-2"></div>
+        <div class=""></div>
+        <div class="carousel-caption">
+            <div class="container">
+                <div class="row g-4 align-items-center">
+                    <div class="col-lg-7 animated fadeInLeft">
+                        <div class="text-sm-center text-md-start">
+                            <h1 class="text-white text-uppercase fw-bold mb-4">
+                                Engineering Service
+                            </h1>
+                            <h2 class="display-2 text-white mb-4"> Transforming ideas into excellence through innovation and expertise.</h2>
+                            <p class="mb-5 fs-5">
+                               
+
+                                "Engineering Services are the driving force behind progress,
+                                <br> turning visions into reality with precision and ingenuity.
+                         
+                                Embrace the challenge, fuel your ambition,  <br> and let engineering ,
+                              innovation lead the way to extraordinary solutions<br> and a brighter future."
+                            </p>
+                            <div class="d-flex justify-content-center justify-content-md-start flex-shrink-0 mb-4">
+                                <a class="btn btn-light py-3 px-4 px-md-5 me-2" href="#"><i class="fas fa-play-circle me-2"></i> Watch Video</a>
+                                <a class="btn btn-primary py-3 px-4 px-md-5 ms-2" href="/User/EngineeringService">Learn More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+    <div class="header-carousel-item hero-section">
+        <div class="hero-bg-half-3"></div>
+        <div class=""></div>
+        <div class="carousel-caption">
+            <div class="container">
+                <div class="row g-4 align-items-center">
+                    <div class="col-lg-7 animated fadeInLeft">
+                        <div class="text-sm-center text-md-start">
+                            <h1 class="text-white text-uppercase fw-bold mb-4">Creative Service</h1>
+                            <h2 class="display-2 text-white mb-4">"Creative services ignite imagination,shape unique solutions."</h2>
+                            <p class="mb-5 fs-5">
+                               "Creative services are the spark that ignites imagination,
+                                <br> the catalyst that inspires innovation,<br>
+                                 and the force that shapes unique solutions. ,
+                                <br>Embrace the power of creativity to transform challenges into
+                                <br>opportunities and dreams into reality."
+                            </p>
+                            <div class="d-flex justify-content-center justify-content-md-start flex-shrink-0 mb-4">
+                                <a class="btn btn-light py-3 px-4 px-md-5 me-2" href="#"><i class="fas fa-play-circle me-2"></i> Watch Video</a>
+                                <a class="btn btn-primary py-3 px-4 px-md-5 ms-2" href="/User/CreativeService">Learn More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+       
+    </div>
+    <div class="header-carousel-item hero-section">
+        <div class="hero-bg-half-4"></div>
+        <div class=""></div>
+        <div class="carousel-caption">
+            <div class="container">
+                <div class="row g-4 align-items-center">
+                    <div class="col-lg-7 animated fadeInLeft">
+                        <div class="text-sm-center text-md-start">
+                            <h1 class="text-white text-uppercase fw-bold mb-4">Web Service</h1>
+                            <h2 class="display-2 text-white mb-4">"Web services empower global innovation."</h2>
+                            <p class="mb-5 fs-5">
+                                "Web services are the pulse of digital innovation—bridging connections,<br>
+                         
+                                empowering businesses, and turning visionary ideas into global impact."
+                            </p>
+                            <div class="d-flex justify-content-center justify-content-md-start flex-shrink-0 mb-4">
+                                <a class="btn btn-light py-3 px-4 px-md-5 me-2" href="#"><i class="fas fa-play-circle me-2"></i> Watch Video</a>
+                                <a class="btn btn-primary py-3 px-4 px-md-5 ms-2" href="/User/WebService">Learn More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+       
+    </div>
+    <div class="header-carousel-item hero-section">
+        <div class="hero-bg-half-5"></div>
+        <div class=""></div>
+        <div class="carousel-caption">
+            <div class="container">
+                <div class="row g-4 align-items-center">
+                    <div class="col-lg-7 animated fadeInLeft">
+                        <div class="text-sm-center text-md-start">
+                            <h1 class="text-white text-uppercase fw-bold mb-4">Digital Service</h1>
+                            <h2 class="display-2 text-white mb-4">  Empowering progress with cutting-edge technology and seamless solutions.</h2>
+                            <p class="mb-5 fs-5">
+                                " Pioneering the future with advanced technology solutions that streamline operations,,<br> enhance connectivity,
+                          
+                                and drive innovation, ensuring your business remains,<br> competitive and agile in a rapidly evolving digital landscape."
+                                <!-- "Pioneering" means leading the way in new developments or innovations. It involves being at the forefront of progress, breaking new ground, and setting trends or standards that others follow.-->
+                            </p>
+                            <div class="d-flex justify-content-center justify-content-md-start flex-shrink-0 mb-4">
+                                <a class="btn btn-light py-3 px-4 px-md-5 me-2" href="#"><i class="fas fa-play-circle me-2"></i> Watch Video</a>
+                                <a class="btn btn-primary py-3 px-4 px-md-5 ms-2" href=" /User/DigitalService">Learn More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+ 
+    </div>
+    <div class="header-carousel-item hero-section">
+        <div class="hero-bg-half-6"></div>
+        <div class=""></div>
+        <div class="carousel-caption">
+            <div class="container">
+                <div class="row g-4 align-items-center">
+                    <div class="col-lg-7 animated fadeInLeft">
+                        <div class="text-sm-center text-md-start">
+                            <h1 class="text-white text-uppercase fw-bold mb-4">Staffing Service</h1>
+                            <h2 class="display-2 text-white mb-4">" Finding the right talent to drive your success."</h2>
+                            <p class="mb-5 fs-5">
+                                " Expertly matching skilled professionals with the right opportunities, <br>optimizing recruitment processes, and building strong,<br>
+                          
+                                effective teams to drive organizational success and support growth across diverse industries."
+                            </p>
+                            <div class="d-flex justify-content-center justify-content-md-start flex-shrink-0 mb-4">
+                                <a class="btn btn-light py-3 px-4 px-md-5 me-2" href="#"><i class="fas fa-play-circle me-2"></i> Watch Video</a>
+                                <a class="btn btn-primary py-3 px-4 px-md-5 ms-2" href="/User/StaffingService">Learn More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+      
+    </div>
+
+</div>
+<!-- Carousel End -->
+
+
+<!-- Services Start -->
+<div class="container-fluid service py-5">
+    <div class="container py-5">
+        <div class="d-flex flex-column mx-auto text-center mb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
+            <h4 class="text-primary">Our Services</h4>
+            <h1 class="display-4 mb-4">The Best Service For You</h1>
+            <p class="mb-0">
+                We offer a comprehensive range of tailored solutions to meet your unique needs. From expert consulting to hands-on implementation, we provide top-tier services designed to enhance your business. Our commitment to excellence ensures that you receive the best support, driving success and sustainable growth for your organization.
+            </p>
+        </div>
+        <div class="row g-5 align-items-center">
+            <div class="col-lg-3 wow fadeInLeft" data-wow-delay="0.2s">
+                <ul class="nav">
+                   @*  <li class="nav-item me-lg-0 mb-4">
+                        <a class="py-3 px-5 active" data-bs-toggle="pill" href="#ServiceTab-1">
+                            <span>Software & Development Service</span>
+                        </a>
+                    </li> *@
+                    @*  <li class="nav-item me-lg-0 mb-4">
+                    <a class="py-3 px-5" data-bs-toggle="pill" href="#ServiceTab-2">
+                    <span>Residential</span>
+                    </a>
+                    </li> *@
+                    <li class="nav-item me-lg-0 mb-4 mb-lg-0">
+                        <a class="py-3 px-5" data-bs-toggle="pill" href="#ServiceTab-3">
+                            <span>Engineering Services</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-lg-9 wow fadeInRight" data-wow-delay="0.3s">
+               @*  <div class="tab-content">
+                    <div id="ServiceTab-1" class="tab-pane fade show p-0 active">
+                        <div class="service-carousel owl-carousel">
+                            <div class="service-item">
+                                <img src="~/Template/img/commercial-1.png" class="img-fluid w-100" alt="">
+                                <div class="border border-top-0 p-4">
+                                    <h4 class="mb-3">Software Development</h4>
+                                    <p class="mb-4">
+                                        **Software Development**
+                                        We specialize in creating innovative, scalable, and user-friendly software solutions tailored to your business needs. Our expert team designs, develops, and deploys cutting-edge applications that enhance efficiency, streamline processes, and foster growth, ensuring seamless integration with your existing systems and future-ready technology.
+                                    </p>
+                                    <a class="btn btn-primary py-2 px-4" href="/User/WebService">Read More</a>
+                                </div>
+                            </div>
+                            <div class="service-item">
+                                <img src="~/Template/img/header-4.png" class="img-fluid w-100" alt="">
+                                <div class="border border-top-0 p-4">
+                                    <h4 class="mb-3">
+                                        Creative Design
+                                    </h4>
+                                    <p class="mb-4">
+                                        **Creative Design**
+                                        We provide innovative and visually stunning design solutions that captivate audiences. Our team transforms ideas into compelling visuals, ensuring your brand stands out and effectively communicates its message with creativity and impact.
+                                    </p>
+                                    <a class="btn btn-primary py-2 px-4" href="/User/DigitalService">Read More</a>
+                                </div>
+                            </div>
+                            <div class="service-item">
+                                <img src="~/Template/img/commercial-3.jpg" class="img-fluid w-100" alt="">
+                                <div class="border border-top-0 p-4">
+                                    <h4 class="mb-3">Digital Marketing</h4>
+                                    <p class="mb-4">
+                                        **Digital Marketing**
+                                        We craft data-driven digital marketing strategies to boost your online presence. By leveraging SEO, social media, and targeted campaigns, we help you engage your audience, increase brand visibility, and drive measurable growth.
+                                    </p>
+                                    <a class="btn btn-primary py-2 px-4" href="/User/CreativeService">Read More</a>
+                                </div>
+                            </div>
+                            <div class="service-item">
+                                <img src="~/Template/img/header-6.png" class="img-fluid w-100" alt="">
+                                <div class="border border-top-0 p-4">
+                                    <h4 class="mb-3">Staffing Service</h4>
+                                    <p class="mb-4">
+                                        **Staffing Services**
+                                        We provide tailored staffing solutions to meet your business needs. Our team connects you with skilled professionals, ensuring the right fit for your organization to enhance productivity, efficiency, and long-term success.
+                                    </p>
+                                    <a class="btn btn-primary py-2 px-4" href="/User/StaffingService">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                     
+                    <div id="ServiceTab-3" class="tab-pane fade show p-0">
+                        <div class="service-carousel owl-carousel">
+                            <div class="service-item">
+                                <img src="~/Template/img/em2.png" class="img-fluid w-100" alt="">
+                                <div class="border border-top-0 p-4">
+                                    <h4 class="mb-3">EV-Mobility</h4>
+                                    <p class="mb-4">
+                                        **EV-Mobility**
+                                        We specialize in developing cutting-edge solutions for electric vehicle (EV) mobility, including two-wheelers and three-wheelers. Our focus is on innovation, sustainability, and performance, helping shape the future of eco-friendly transportation with advanced engineering and design expertise.
+                                    </p>
+                                    <a class="btn btn-primary py-2 px-4" href="/User/GeneralEngineering">Read More</a>
+                                </div>
+                            </div>
+                            <div class="service-item">
+                                <img src="~/Template/img/s2.jpg" class="img-fluid w-100" alt="">
+                                <div class="border border-top-0 p-4">
+                                    <h4 class="mb-3">Product Design And Analysis</h4>
+                                    <p class="mb-4">
+
+                                        Product design and analysis involve creating and evaluating products to ensure they meet functional, aesthetic, and performance criteria.
+                                    </p>
+                                    <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
+                                </div>
+                            </div>
+                            <div class="service-item">
+                                <img src="~/Template/img/C1.jpg" class="img-fluid w-100" alt="">
+                                <div class="border border-top-0 p-4">
+                                    <h4 class="mb-3"> General Engineering & Automations</h4>
+                                    <p class="mb-4">
+                                        Electric mobility is undoubtedly the future, and its presence is here to stay. However, the electrification of drivetrains—whether fully or partially electric—has a significant impact on passenger comfort and ride quality. We are pioneering advanced technologies to enhance the comfort, safety, and overall travel experience in both light and commercial electric vehicles, ensuring smooth and relaxed journeys.
+                                        We are at the forefront of developing innovative electric mobility drone solutions, combining advanced technology with sustainability.
+                                    </p>
+                                    <a class="btn btn-primary py-2 px-4" href="/User/GeneralEngineering">Read More</a>
+                                </div>
+                            </div>
+                            <div class="service-item">
+                                <img src="~/Template/img/AG2 (2).png" class="img-fluid w-100" alt="">
+                                <div class="border border-top-0 p-4">
+                                    <h4 class="mb-3"> Agricultural Solutions</h4>
+                                    <p class="mb-4">
+                                        Agricultural solutions can encompass a wide range of technologies and innovations aimed at improving farming efficiency, productivity, and sustainability. Here
+                                    </p>
+                                    <a class="btn btn-primary py-2 px-4" href="/User/AgriculturalSolutions">Read More</a>
+                                </div>
+                            </div>
+
+                            <div class="service-item">
+                                <img src="~/Template/img/C3.jpg" class="img-fluid w-100" alt="">
+                                <div class="border border-top-0 p-4">
+                                    <h4 class="mb-3">
+                                        Oil & Gas Solutions
+                                    </h4>
+                                    <p class="mb-4">
+
+                                        In the oil and gas industry, specialized car equipment is crucial for operations, safety, and efficiency.
+                                    </p>
+                                    <a class="btn btn-primary py-2 px-4" href="/User/OilandGasSolution">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> *@
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Services End -->
+
+
+<!-- Banner Start -->
+<div class="container-fluid banner py-5 wow zoomIn" data-wow-delay="0.2s">
+    <div class="banner-design-1"></div>
+    <div class="banner-design-2"></div>
+    <div class="container py-5">
+        <div class="row g-5">
+            <div class="col-lg-8">
+                <div class="">
+                    <h4 class="text-white"> Engineering Solutions</h4>
+                    <h1 class="display-4 text-white mb-0">"We deliver tailored engineering solutions for our clients, innovation and exceptional service to meet their unique needs."</h1>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="d-flex align-items-center justify-content-lg-end h-100">
+                    <a class="btn btn-primary py-3 px-4 px-md-5 ms-2" href="/User/Careers">Contact Us</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Banner End -->
+
+
+<!-- Projects Start -->
+<div class="container-fluid projects bg-light py-5">
+    <div class="container py-5">
+        <div class="row g-5">
+            <div class="col-lg-5 wow fadeInLeft" data-wow-delay="0.2s">
+                <div>
+                    <h4 class="text-primary">Our Projects</h4>
+                    <h1 class="display-4 mb-4">How to work Our EV-Mobility Projects</h1>
+                    <p class="mb-5">Mobility trends such as e-mobility, autonomous driving and efficiency improvements are presenting enormous challenges to the entire automotive industry. In addition to the technical implementation, the changes often impact the comfort and convenience of all passengers. New Noise, Vibration and Harshness (NVH) solutions are required to ensure comfortable, relaxed and safe travel in a fuel-efficient, electrified or even autonomous future.</p>
+                    <ul class="nav">
+                        <li class="nav-item bg-white mb-4 w-100">
+                            <a class="d-flex align-items-center h4 mb-0 p-3 active" data-bs-toggle="pill" href="#ProjectsTab-1">
+                                <div class="projects-icon btn-md-square bg-primary text-white me-3"><span class="fas fa-charging-station small"></span></div><span> EV-Mobility  </span>
+                            </a>
+                        </li>
+                        <li class="nav-item bg-white mb-4 w-100">
+                            <a class="d-flex align-items-center h4 mb-0 p-3" data-bs-toggle="pill" href="#ProjectsTab-2">
+                                <div class="projects-icon btn-md-square bg-primary text-white me-3"><span class="fas fa-bolt small"></span></div><span> Softwear Development </span>
+                            </a>
+                        </li>
+                        <li class="nav-item bg-white mb-4 w-100">
+                            <a class="d-flex align-items-center h4 mb-0 p-3" data-bs-toggle="pill" href="#ProjectsTab-3">
+                                <div class="projects-icon btn-md-square bg-primary text-white me-3"><span class="fas fa-broadcast-tower small"></span></div><span> Agriculture  </span>
+                            </a>
+                        </li>
+                        <li class="nav-item bg-white mb-4 w-100">
+                            <a class="d-flex align-items-center h4 mb-0 p-3" data-bs-toggle="pill" href="#ProjectsTab-4">
+                                <div class="projects-icon btn-md-square bg-primary text-white me-3"><span class="fas fa-bolt small"></span></div><span> General Engineering & Automations </span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-7 wow fadeInRight" data-wow-delay="0.2s">
+                <div class="tab-content">
+                    <div id="ProjectsTab-1" class="tab-pane fade show p-0 active">
+                        <div class="projects-item">
+                            <img src="~/Template/img/em1.jpg"class="img-fluid w-100" alt="">
+                            <div class="projects-content bg-white p-4">
+                                <h4 class="mb-3">EV-Mobility Projects</h4>
+                                <p class="mb-4">
+                                    Electric drive trains for electric vehicles (EVs) are a critical component of modern EV technology.
+                                </p>
+                                <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="ProjectsTab-2" class="tab-pane fade show p-0">
+                        <div class="projects-item">
+                            <img src="~/Template/img/d1.png" class="img-fluid w-100" alt="">
+                            <div class="projects-content bg-white p-4">
+                                <h4 class="mb-3"> Website & Digital Service</h4>
+                                <p class="mb-4">
+                                    Agricultural solutions can encompass a wide range of technologies and innovations aimed at improving farming efficiency, productivity, and sustainability.
+                                </p>
+                                <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="ProjectsTab-3" class="tab-pane fade show p-0">
+                        <div class="projects-item">
+                            <img src="~/Template/img/AG1.jpg" class="img-fluid w-100" alt="">
+                            <div class="projects-content bg-white p-4">
+                                <h4 class="mb-3"> Agricultural solutions</h4>
+                                <p class="mb-4">
+                                    Agricultural solutions can encompass a wide range of technologies and innovations aimed at improving farming efficiency, productivity, and sustainability.
+                                </p>
+                                <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="ProjectsTab-4" class="tab-pane fade show p-0">
+                        <div class="projects-item">
+                            <img src="~/Template/img/C4.png" class="img-fluid w-100" alt="">
+                            <div class="projects-content bg-white p-4">
+                                <h4 class="mb-4">General Engineering & Automations</h4>
+                                <p class="mb-4">
+                                    General engineering and automation encompass a broad range of disciplines and technologies aimed at improving efficiency, precision, and productivity in various industries.
+                                </p>
+                                <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Projects End -->
+
+<!-- Banner Start -->
+<div class="container-fluid banner py-5 wow zoomIn" data-wow-delay="0.2s">
+    <div class="banner-design-1"></div>
+    <div class="banner-design-2"></div>
+    <div class="container py-5">
+        <div class="row g-5">
+            <div class="col-lg-8">
+                <div class="">
+                    <h4 class="text-white">Engineering Service</h4>
+                    <h1 class="display-4 text-white mb-0">We provide Manufacture And Design Service for our customer</h1>
+                </div>
+            </div>
+            <div class="col-lg-4">
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Banner End -->
+
+
+<!-- Product Start -->
+<div class="container-fluid blog py-5">
+    <div class="container py-5">
+        <div class="d-flex flex-column mx-auto text-center mb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
+            <h2 class="text-primary">Manufacture And Design</h2>
+            <h1 class="display-4 mb-4"> </h1>
+            <p class="mb-0">
+                
+                Stay informed with the latest industry news, innovations, and developments in electric mobility, technology, and engineering solutions. Our regular updates will keep you connected to new trends, product launches, and key advancements in EVs, renewable energy, automation, and more. Stay ahead of the curve with insights and stories that drive progress and inspire innovation.
+            </p>
+        </div>
+        <div class="row g-4">
+            <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.2s">
+                <div class="blog-item">
+                    <div class="blog-img">
+                        <img src="~/Template/img/a3.png" class="img-fluid w-100" alt="">
+                    </div>
+                    <div class="blog-heading ms-4">
+                        <a href="#" class="h4 mb-0 p-4"> 3-D Design products facilitate CAD modeling and simulation for all design engineers.</a>
+                    </div>
+                    <div class="blog-content bg-light p-4">
+                        <div class="d-flex justify-content-between mb-4">
+                            <p class="mb-0 small"><i class="fa fa-calendar me-2"></i>  </p>
+                            <p class="mb-0 small"><i class="fa fa-tag me-2"></i>  3-D Design products </p>
+                        </div>
+                        <p class="mb-4">
+                            The demands placed on today’s design engineers to create optimized, lighter, and smarter products have reached unprecedented levels. Consequently, the utilization of suitable and appropriate design tools has become increasingly crucial in meeting these expectations.
+                        </p>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.4s">
+                <div class="blog-item">
+                    <div class="blog-img">
+                        <img src="~/Template/img/k1.jpg" class="img-fluid w-100" alt="">
+                    </div>
+                    <div class="blog-heading ms-4">
+                        <a href="/User/Manufacture" class="h4 mb-0 p-4">Modeling (CAD,CFD & FEA ) </a>
+                    </div>
+                    <div class="blog-content bg-light p-4">
+                        <div class="d-flex justify-content-between mb-4">
+                            <p class="mb-0 small"><i class="fa fa-calendar me-2"></i>  </p>
+                            <p class="mb-0 small"><i class="fa fa-tag me-2"></i> Modeling</p>
+                        </div>
+                        <p class="mb-4">
+                            The process of creating abstract representations of physical systems, components, or processes to analyze, simulate, and predict their behavior under various conditions.CAD Modeling,Finite Element Analysis (FEA),Computational Fluid Dynamics (CFD)&Thermal Modeling.
+                        </p>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.6s">
+                <div class="blog-item">
+                    <div class="blog-img">
+                        <img src="~/Template/img/2W.PNG" class="img-fluid w-100" alt="">
+                    </div>
+                    <div class="blog-heading ms-4">
+                        <a href="/User/Manufacture" class="h4 mb-0 p-4">EV mobility (Electric Vehicle Mobility)</a>
+                    </div>
+                    <div class="blog-content bg-light p-4">
+                        <div class="d-flex justify-content-between mb-4">
+                            <p class="mb-0 small"><i class="fa fa-calendar me-2"></i> June 24, 2024</p>
+                            <p class="mb-0 small"><i class="fa fa-tag me-2"></i> EV-mobility </p>
+                        </div>
+                        <p class="mb-4">
+                            EV mobility encompasses various elements like electric cars, charging infrastructure, battery technology, and renewable energy integration. 
+                            With growing technological advancements and global environmental awareness, 
+                            EV mobility is a key driver in transforming modern transportation, offering cleaner,
+                            quieter, and more efficient alternatives to traditional internal combustion engine vehicles.
+                        </p>
+                       
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row g-4">
+            <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.2s">
+                <div class="blog-item">
+                    <div class="blog-img">
+                        <img src="~/Template/img/mO1.jpg" class="img-fluid w-100" alt="">
+                    </div>
+                    <div class="blog-heading ms-4">
+                        <a href="/User/Manufacture" class="h4 mb-0 p-4">RTM Molding</a>
+                    </div>
+                    <div class="blog-content bg-light p-4">
+                        <div class="d-flex justify-content-between mb-4">
+                            <p class="mb-0 small"><i class="fa fa-calendar me-2"></i> 09 June 2024 08:13 AM </p>
+                            <p class="mb-0 small"><i class="fa fa-tag me-2"></i>RTM Molding</p>
+                        </div>
+                        <p class="mb-4">
+                            In RTM, modeling refers to the simulation and analysis of the RTM process to optimize the manufacturing of high-performance composite parts.
+                        </p>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.4s">
+                <div class="blog-item">
+                    <div class="blog-img">
+                        <img src="~/Template/img/Drone.png" class="img-fluid w-100" alt="">
+                    </div>
+                    <div class="blog-heading ms-4">
+                        <a href="/User/Manufacture" class="h4 mb-0 p-4">EV-Drone</a>
+                    </div>
+                    <div class="blog-content bg-light p-4">
+                        <div class="d-flex justify-content-between mb-4">
+                            <p class="mb-0 small"><i class="fa fa-calendar me-2"></i> 09 June 2024 01:13 PM </p>
+                            <p class="mb-0 small"><i class="fa fa-tag me-2"></i> IT, New Media & Software</p>
+                        </div>
+                        <p class="mb-4">
+                            We are at the forefront of developing innovative electric mobility drone solutions, combining advanced technology with sustainability.
+                        </p>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.6s">
+                <div class="blog-item">
+                    <div class="blog-img">
+                        <img src="~/Template/img/2WW.png" class="img-fluid w-100" alt="">
+                    </div>
+                    <div class="blog-heading ms-4">
+                        <a href="#" class="h4 mb-0 p-4">EV-Mobility Design E-Bicycle</a>
+                    </div>
+                    <div class="blog-content bg-light p-4">
+                        <div class="d-flex justify-content-between mb-4">
+                            <p class="mb-0 small"><i class="fa fa-calendar me-2"></i> June 24, 2024</p>
+                            <p class="mb-0 small"><i class="fa fa-tag me-2"></i> EV-Mobility Design E-Bicycle</p>
+                        </div>
+                        <p class="mb-4">
+                            In our view, it is going to be a key role player in the EV and automotive 2W market.
+                        </p>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.6s">
+                <div class="blog-item">
+                    <div class="blog-img">
+                        <img src="~/Template/img/3w1.PNG" class="img-fluid w-100" alt="">
+                    </div>
+                    <div class="blog-heading ms-4">
+                        <a href="#" class="h4 mb-0 p-4">  EV-CAE based Design Expertise (3W – Complete Vehicle)</a>
+                    </div>
+                    <div class="blog-content bg-light p-4">
+                        <div class="d-flex justify-content-between mb-4">
+                            <p class="mb-0 small"><i class="fa fa-calendar me-2"></i> June 24, 2024</p>
+                            <p class="mb-0 small"><i class="fa fa-tag me-2"></i>   EV-CAE based (3W – Complete Vehicle)</p>
+                        </div>
+                        <p class="mb-4">
+                            The core of EV technology is the electrified drive powertrain. P2P supports
+                            developers to meet current and future industrial legislations and customer
+                            requirements.
+                        </p>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.6s">
+                <div class="blog-item">
+                    <div class="blog-img">
+                        <img src="~/Template/img/2W1.PNG" class="img-fluid w-100" alt="">
+                    </div>
+                    <div class="blog-heading ms-4">
+                        <a href="#" class="h4 mb-0 p-4">  Oil & Gas Industry</a>
+                    </div>
+                    <div class="blog-content bg-light p-4">
+                        <div class="d-flex justify-content-between mb-4">
+                            <p class="mb-0 small"><i class="fa fa-calendar me-2"></i> June 2, 2024</p>
+                            <p class="mb-0 small"><i class="fa fa-tag me-2"></i>   Oil & Gas Industry</p>
+                        </div>
+                        <p class="mb-4">
+                            Design & Development of Air Intake Systems,Design& Development of Silencer Designs,Designing& Development of Acoustic Enclosures,Setting machines process & Ensure its feasibility
+                            & CFD Flow Simulations, Bolt Failure Analysis, Structural
+                            Simulations to cater the need to better design and solutions
+                            for customers.
+                        </p>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.6s">
+                <div class="blog-item">
+                    <div class="blog-img">
+                        <img src="~/Template/img/4W.PNG" class="img-fluid w-100" alt="">
+                    </div>
+                    <div class="blog-heading ms-4">
+                        <a href="#" class="h4 mb-0 p-4">  Passenger/Commercial Vehicles</a>
+                    </div>
+                    <div class="blog-content bg-light p-4">
+                        <div class="d-flex justify-content-between mb-4">
+                            <p class="mb-0 small"><i class="fa fa-calendar me-2"></i> June 2, 2024</p>
+                            <p class="mb-0 small"><i class="fa fa-tag me-2"></i>  EV-CAE based Design Expertise (Passenger/Commercial Vehicles)</p>
+                        </div>
+                        <p class="mb-4">
+                            Highly experienced team 3D CAD Modelling (BIW, A class, B Class surface
+                            generation, Structural components) covering all Engineering aspects and
+                            Manufacturability standards extending for DFM, DFA approaches and CAE
+                            Simulations as per homologation requirements.
+
+                        </p>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- Product End --
+
+
+<!-- Banner Start -->
+<div class="container-fluid banner py-5 wow zoomIn" data-wow-delay="0.2s">
+    <div class="banner-design-1"></div>
+    <div class="banner-design-2"></div>
+    <div class="container py-5">
+        <div class="untree_co-section count-numbers py-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-6 col-sm-6 col-md-6 col-lg-3">
+                        <div class="counter-wrap">
+                            <div class="counter">
+                                <span class="text-white" data-number="500">500</span>
+                            </div>
+                            <span class="caption text-white">No. of Project</span>
+                        </div>
+                    </div>
+                    <div class="col-6 col-sm-6 col-md-6 col-lg-3">
+                        <div class="counter-wrap">
+                            <div class="counter">
+                                <span class="text-white" data-number="100">100</span>
+                            </div>
+                            <span class="caption text-white">No. of Clients</span>
+                        </div>
+                    </div>
+                    <div class="col-6 col-sm-6 col-md-6 col-lg-3">
+                        <div class="counter-wrap">
+                            <div class="counter">
+                                <span class="text-white" data-number="200">200</span>
+                            </div>
+                            <span class="caption text-white"> No. of Employees</span>
+                        </div>
+                    </div>
+                    <div class="col-6 col-sm-6 col-md-6 col-lg-3">
+                        <div class="counter-wrap">
+                            <div class="counter">
+                                <span class="text-white" data-number="10">10</span>
+                            </div>
+                            <span class="caption text-white">No. of Awards</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Banner End -->
+
+
+
+<!-- Careers Start -->
+<div class="container-fluid projects bg-light py-5">
+    <div class="container py-5">
+        <div class="row g-5">
+            <div class="col-lg-5 wow fadeInLeft" data-wow-delay="0.2s">
+                <div>
+                    <h4 class="text-primary"> Careers</h4>
+                    <h1 class="display-4 mb-4">Embark on Your Career Journey with Us!</h1>
+                    <p class="mb-5">
+                        At P2P solution & analysis, we’re constantly finding new ways to bring innovation to life. And we do it as nobody else can. That’s because our team lives on the edge of brilliant physics and revolutionary ideas to push the limits of what’s next.
+                    </p>
+                    <ul class="nav">
+                        <li class="nav-item bg-white mb-4 w-100">
+                            <a class="d-flex align-items-center h4 mb-0 p-3 active" data-bs-toggle="pill" href="#ProjectsTab-1">
+                                <div class="projects-icon btn-md-square bg-primary text-white me-3"><span class="fas fa-bolt small"></span></div><span>Institute - CAD, CAE, CATIA, AutoCAD & HyperMesh Trainings</span>
+                            </a>
+                        </li>
+                        <li class="nav-item bg-white mb-4 w-100">
+                            <a class="d-flex align-items-center h4 mb-0 p-3" data-bs-toggle="pill" href="#ProjectsTab-2">
+                                <div class="projects-icon btn-md-square bg-primary text-white me-3"><span class="fas fa-charging-station small"></span></div><span>CAE Engineer (CATIA, SolidWorks, AutoCAD)</span>
+                            </a>
+                        </li>
+                        <li class="nav-item bg-white mb-4 w-100">
+                            <a class="d-flex align-items-center h4 mb-0 p-3" data-bs-toggle="pill" href="#ProjectsTab-3">
+                                <div class="projects-icon btn-md-square bg-primary text-white me-3"><span class="fas fa-broadcast-tower small"></span></div><span>Software Developer</span>
+                            </a>
+                        </li>
+                        <li class="nav-item bg-white mb-4 w-100">
+                            <a class="d-flex align-items-center h4 mb-0 p-3" data-bs-toggle="pill" href="#ProjectsTab-4">
+                                <div class="projects-icon btn-md-square bg-primary text-white me-3"><span class="fas fa-bolt small"></span></div><span>Human Resources Specialist</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-7 wow fadeInRight" data-wow-delay="0.2s">
+                <div class="tab-content">
+                    <div id="ProjectsTab-1" class="tab-pane fade show p-0 active">
+                        <div class="projects-item">
+                            <img src="~/Template/img/Career11.PNG" class="img-fluid w-100" alt="">
+                            <div class="projects-content bg-white p-4">
+                                <h4 class="mb-3">"Begin Your Career Journey with Us!"</h4>
+                                <p class="mb-4">
+                                    "Start your career journey with us, where innovation and growth thrive. We offer opportunities for both new and experienced professionals to advance their skills in a dynamic and supportive environment."
+                                </p>
+                                <a class="btn btn-primary py-2 px-4" href="/User/Careers">Contact</a>
+                            </div>
+                        </div>
+                    </div>
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Careers End -->
+
+
+<!--Our CLIENT-->
+<div class="container-fluid testimonial bg-dark py-5">
+    <div class="row no-margin">
+        <div class="container-fluid product-lifecycle no-padding">
+            <h3 class="heading-center"><a href="#">Our Clients</a></h3>
+
+            <!-- Bootstrap Carousel -->
+            <div id="teamCarousel" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="d-flex justify-content-center">
+                            <div class="item">
+                                <div class="imgTitle">
+                                    <img src="/Template/img/C20.PNG" class="img-responsive" alt="Concept Designing – Optimization and Functional Validation" title="Concept Designing – Optimization and Functional Validation">
+                                </div>
+                                <p class="red"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="d-flex justify-content-center">
+                            <div class="item">
+                                <div class="imgTitle">
+                                    <img src="/Template/img/C21.PNG" class="img-responsive" alt="Designing -  Detail 3D CAD design &amp; manufacturing drawings" title="Designing -  Detail 3D CAD design &amp; manufacturing drawings">
+                                </div>
+                                <p class="blue"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="d-flex justify-content-center">
+                            <div class="item">
+                                <div class="imgTitle">
+                                    <img src="/Template/img/C31.PNG" class="img-responsive" alt="Mathematical Calculation - Empirical Calculations" title="Mathematical Calculation - Empirical Calculations">
+                                </div>
+                                <p class="fluorescent"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="d-flex justify-content-center">
+                            <div class="item">
+                                <div class="imgTitle">
+                                    <img src="/Template/img/C25.PNG" class="img-responsive" alt="Analysis / Simulations - Static, Dynamic, Non-linear, CFD" title="Analysis / Simulations - Static, Dynamic, Non-linear, CFD">
+                                </div>
+                                <p class="magenda"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="d-flex justify-content-center">
+                            <div class="item">
+                                <div class="imgTitle">
+                                    <img src="/Template/img/C36.PNG" class="img-responsive" alt="Tooling - Mold Design, Sheet Metal forming, Die design, Jig &amp; Fixture Design" title="Tooling - Mold Design, Sheet Metal forming, Die design, Jig &amp; Fixture Design">
+                                </div>
+                                <p class="dark-blue"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="d-flex justify-content-center">
+                            <div class="item">
+                                <div class="imgTitle">
+                                    <img src="/Template/img/C27.PNG" class="img-responsive" alt="Prototyping - Prototype development services" title="Prototyping - Prototype development services">
+                                </div>
+                                <p class="red"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="d-flex justify-content-center">
+                            <div class="item">
+                                <div class="imgTitle">
+                                    <img src="/Template/img/C37.PNG" class="img-responsive" alt="Manufacturing - Digital Manufacturing, Human Ergonomics, Manufacturing process feasibility" title="Manufacturing - Digital Manufacturing, Human Ergonomics, Manufacturing process feasibility">
+                                </div>
+                                <p class="fluorescent"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="d-flex justify-content-center">
+                            <div class="item">
+                                <div class="imgTitle">
+                                    <img src="/Template/img/C38.PNG" class="img-responsive" alt="Shop Floor / Scheduling - Plants simulation, Work cell time study, Assembly, Automation" title="Shop Floor / Scheduling - Plants simulation, Work cell time study, Assembly, Automation">
+                                </div>
+                                <p class="green"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="d-flex justify-content-center">
+                            <div class="item">
+                                <div class="imgTitle">
+                                    <img src="/Template/img/C39.PNG" class="img-responsive" alt="Shop Floor / Scheduling - Plants simulation, Work cell time study, Assembly, Automation" title="Shop Floor / Scheduling - Plants simulation, Work cell time study, Assembly, Automation">
+                                </div>
+                                <p class="green"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="d-flex justify-content-center">
+                            <div class="item">
+                                <div class="imgTitle">
+                                    <img src="/Template/img/C40.PNG" class="img-responsive" alt="Shop Floor / Scheduling - Plants simulation, Work cell time study, Assembly, Automation" title="Shop Floor / Scheduling - Plants simulation, Work cell time study, Assembly, Automation">
+                                </div>
+                                <p class="green"></p>
+                            </div>
+                        </div>
+                    </div>
+                     <div class="carousel-item">
+                        <div class="d-flex justify-content-center">
+                            <div class="item">
+                                <div class="imgTitle">
+                                    <img src="/Template/img/C41.PNG" class="img-responsive" alt="Shop Floor / Scheduling - Plants simulation, Work cell time study, Assembly, Automation" title="Shop Floor / Scheduling - Plants simulation, Work cell time study, Assembly, Automation">
+                                </div>
+                                <p class="green"></p>
+                            </div>
+                        </div>
+                    </div>
+                     <div class="carousel-item">
+                        <div class="d-flex justify-content-center">
+                            <div class="item">
+                                <div class="imgTitle">
+                                    <img src="/Template/img/C42.PNG" class="img-responsive" alt="Shop Floor / Scheduling - Plants simulation, Work cell time study, Assembly, Automation" title="Shop Floor / Scheduling - Plants simulation, Work cell time study, Assembly, Automation">
+                                </div>
+                                <p class="green"></p>
+                            </div>
+                        </div>
+                    </div>
+                     <div class="carousel-item">
+                        <div class="d-flex justify-content-center">
+                            <div class="item">
+                                <div class="imgTitle">
+                                    <img src="/Template/img/C43.PNG" class="img-responsive" alt="Shop Floor / Scheduling - Plants simulation, Work cell time study, Assembly, Automation" title="Shop Floor / Scheduling - Plants simulation, Work cell time study, Assembly, Automation">
+                                </div>
+                                <p class="green"></p>
+                            </div>
+                        </div>
+                    </div>
+                     <div class="carousel-item">
+                        <div class="d-flex justify-content-center">
+                            <div class="item">
+                                <div class="imgTitle">
+                                    <img src="/Template/img/C44.PNG" class="img-responsive" alt="Shop Floor / Scheduling - Plants simulation, Work cell time study, Assembly, Automation" title="Shop Floor / Scheduling - Plants simulation, Work cell time study, Assembly, Automation">
+                                </div>
+                                <p class="green"></p>
+                            </div>
+                        </div>
+                    </div>
+                     <div class="carousel-item">
+                        <div class="d-flex justify-content-center">
+                            <div class="item">
+                                <div class="imgTitle">
+                                    <img src="/Template/img/C45.PNG" class="img-responsive" alt="Shop Floor / Scheduling - Plants simulation, Work cell time study, Assembly, Automation" title="Shop Floor / Scheduling - Plants simulation, Work cell time study, Assembly, Automation">
+                                </div>
+                                <p class="green"></p>
+                            </div>
+                        </div>
+                    </div>
+                     <div class="carousel-item">
+                        <div class="d-flex justify-content-center">
+                            <div class="item">
+                                <div class="imgTitle">
+                                    <img src="/Template/img/C29.PNG" class="img-responsive" alt="Shop Floor / Scheduling - Plants simulation, Work cell time study, Assembly, Automation" title="Shop Floor / Scheduling - Plants simulation, Work cell time study, Assembly, Automation">
+                                </div>
+                                <p class="green"></p>
+                            </div>
+                        </div>
+                    </div>
+                     <div class="carousel-item">
+                        <div class="d-flex justify-content-center">
+                            <div class="item">
+                                <div class="imgTitle">
+                                    <img src="/Template/img/C19.PNG" class="img-responsive" alt="Shop Floor / Scheduling - Plants simulation, Work cell time study, Assembly, Automation" title="Shop Floor / Scheduling - Plants simulation, Work cell time study, Assembly, Automation">
+                                </div>
+                                <p class="green"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="d-flex justify-content-center">
+                            <div class="item">
+                                <div class="imgTitle">
+                                    <img src="/Template/img/C20.PNG" class="img-responsive" alt="Shop Floor / Scheduling - Plants simulation, Work cell time study, Assembly, Automation" title="Shop Floor / Scheduling - Plants simulation, Work cell time study, Assembly, Automation">
+                                </div>
+                                <p class="green"></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+
+
+</div>
+<!-- Our CLIENT End -->
+
+
+<!-- FAQ Start -->
+<div class="container-fluid faq-section bg-light py-5">
+    <div class="container py-5">
+        <div class="row g-5">
+            <div class="col-lg-6 wow fadeInLeft" data-wow-delay="0.2s">
+                <h4 class="text-primary">Some Important FAQ's</h4>
+                <h1 class="display-4 mb-4">Common Frequently Asked Questions?</h1>
+                <p class="mb-4">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet pariatur sapiente, modi perspiciatis earum ab inventore vitae consequatur tempore quibusdam?
+                </p>
+                <a class="btn btn-primary py-3 px-5" href="#">Have Any Questions</a>
+            </div>
+            <div class="col-xl-6 wow fadeInRight" data-wow-delay="0.4s">
+                <div class="h-100">
+                    <div class="accordion" id="accordionExample">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingOne">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    Q: What services do you offer?
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse show active" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    A:  We provide a wide range of services, including [Engineering services,Creative Service,Web Service,Digital Service,Staffing Service], tailored to meet the specific needs of our clients.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingTwo">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    Q: How long does it take to complete a project?
+                                </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    A:  Project timelines depend on the complexity of the project. We will provide an estimated timeline after an initial consultation.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingThree">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    Q: What makes your company different from competitors?
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    A:  Our commitment to quality, innovation, and customer satisfaction sets us apart from competitors.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingFour">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    Q: Can I customize the services according to my needs?
+                                </button>
+                            </h2>
+                            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    A: Yes, we offer flexible services tailored to meet your specific requirements.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- FAQ End -->
+
+
+
+
+
+
+
+
+
+
+@* 
+<!-- Team Start -->
+<div class="container-fluid team pb-5">
+    <div class="container pb-5">
+        <div class="d-flex flex-column mx-auto text-center mb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
+            <h4 class="text-primary">Our Team</h4>
+            <h1 class="display-4 mb-4"> P2P Analysis & Solution </h1>
+            <p class="mb-0">
+                We’re the global leader in engineering simulation. We energize, inspire, and partner with the world’s top innovators to design products limited only by the imagination.
+            </p>
+            <p class="mb-0">Our team is the cornerstone of our success, expertly developing client relationships and managing all projects with precision and dedication. Together, we drive innovation and growth, ensuring our company's and clients' success.</p>
+        </div>
+
+        <!-- Icon Slider Start -->
+        <div id="teamCarousel" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+
+                <div class="carousel-item active">
+                    <div class="d-flex justify-content-center">
+                        <div class="team-item text-center">
+                            <div class="team-icon mb-4">
+                                <img src="~/Template/img/team-4.png" class="circle-img" alt="">
+                            </div>
+                            <div class="team-content bg-light p-4">
+                                <h4>Pritam Prakash</h4>
+                                <p class="mb-0">Director | Head – Business & Technical</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                    <div class="d-flex justify-content-center">
+                        <div class="team-item text-center">
+                            <div class="team-icon mb-4">
+                                <img src="~/Template/img/team-4.png" class="circle-img" alt="">
+                            </div>
+                            <div class="team-content bg-light p-4">
+                                <h4>Vivek Joshi</h4>
+                                <p class="mb-0">Manager – Business & Technical</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                    <div class="d-flex justify-content-center">
+                        <div class="team-item text-center">
+                            <div class="team-icon mb-4">
+                                <img src="~/Template/img/team-4.png" class="circle-img" alt="">
+                            </div>
+                            <div class="team-content bg-light p-4">
+                                <h4>Pardeep Kumar</h4>
+                                <p class="mb-0">Corporate Lead - Business & Technical</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                    <div class="d-flex justify-content-center">
+                        <div class="team-item text-center">
+                            <div class="team-icon mb-4">
+                                <img src="~/Template/img/team-4.png" class="circle-img" alt="">
+                            </div>
+                            <div class="team-content bg-light p-4">
+                                <h4>Raju Chodhary</h4>
+                                <p class="mb-0">Manager</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- Slider Controls -->
+            <button class="carousel-control-prev" type="button" data-bs-target="#teamCarousel" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#teamCarousel" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+        <!-- Icon Slider End -->
+
+    </div>
+</div>
+@**@
