@@ -1,0 +1,1417 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\P2Psample1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\P2Psample1.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Template\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\css\\style.css",
+      "PackagePath": "staticwebassets\\Template\\css\\style.css"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\00.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\00.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\000-removebg-preview.png",
+      "PackagePath": "staticwebassets\\Template\\img\\000-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\000.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\000.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\0000.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\0000.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\000000 (1).png",
+      "PackagePath": "staticwebassets\\Template\\img\\000000 (1).png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\000000.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\000000.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\2W.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\2W.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\2W1.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\2W1.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\2WW.png",
+      "PackagePath": "staticwebassets\\Template\\img\\2WW.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\3w.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\3w.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\3w1.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\3w1.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\4W.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\4W.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\AG1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\AG1.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\AG2 (2).png",
+      "PackagePath": "staticwebassets\\Template\\img\\AG2 (2).png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\AVL00 - Copy.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\AVL00 - Copy.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\AVL00.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\AVL00.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\AVL001.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\AVL001.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\AVL002.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\AVL002.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\AVL101.png",
+      "PackagePath": "staticwebassets\\Template\\img\\AVL101.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C1.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C1.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\C1.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C10.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C10.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C11.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C11.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C12.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C12.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C13.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C13.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C14.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C14.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C15.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C15.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C16.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C16.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C17.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C17.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C18.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C18.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C19.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C19.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C2.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C2.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\C2.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C20.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C20.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C21.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C21.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C22.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C22.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C23.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C23.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C24.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C24.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C25.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C25.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C26.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C26.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C27.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C27.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C28.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C28.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C29.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C29.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C3.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C3.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C3.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\C3.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C30.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C30.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C31.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C31.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C32 .PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C32 .PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C34.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C34.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C35.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C35.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C36.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C36.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C38.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C38.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C39.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C39.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C4.png",
+      "PackagePath": "staticwebassets\\Template\\img\\C4.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C40.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C40.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C41.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C41.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C42.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C42.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C43.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C43.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C44.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C44.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C45.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C45.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C5.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C5.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C6.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C6.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C7.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C7.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C8.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C8.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\C9.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\C9.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\Career.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\Career.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\Career1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\Career1.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\Career11.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\Career11.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\Drone.png",
+      "PackagePath": "staticwebassets\\Template\\img\\Drone.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\E1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\E1.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\En1.png",
+      "PackagePath": "staticwebassets\\Template\\img\\En1.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\J1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\J1.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\L1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\L1.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\L2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\L2.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\L3.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\L3.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\L4.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\L4.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\L5.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\L5.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\Oil1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\Oil1.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\Q01.png",
+      "PackagePath": "staticwebassets\\Template\\img\\Q01.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\X1.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\X1.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\X2.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\X2.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\a1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\a1.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\a2.png",
+      "PackagePath": "staticwebassets\\Template\\img\\a2.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\a3.png",
+      "PackagePath": "staticwebassets\\Template\\img\\a3.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\a5.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\a5.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\a6.png",
+      "PackagePath": "staticwebassets\\Template\\img\\a6.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\ab1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\ab1.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\ab2.png",
+      "PackagePath": "staticwebassets\\Template\\img\\ab2.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\about-1.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\about-2.png",
+      "PackagePath": "staticwebassets\\Template\\img\\about-2.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\about-img.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\about-img.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\about-img.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\about-img.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\ag2.png",
+      "PackagePath": "staticwebassets\\Template\\img\\ag2.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\avl01.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\avl01.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\avl02.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\avl02.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\avl03.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\avl03.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\avl04.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\avl04.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\avl05.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\avl05.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\avl06.PNG",
+      "PackagePath": "staticwebassets\\Template\\img\\avl06.PNG"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\avl1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\avl1.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\b1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\b1.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\banner-img.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\banner-img.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\co1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\co1.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\co2.png",
+      "PackagePath": "staticwebassets\\Template\\img\\co2.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\co3.png",
+      "PackagePath": "staticwebassets\\Template\\img\\co3.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\co4.png",
+      "PackagePath": "staticwebassets\\Template\\img\\co4.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\co5.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\co5.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\co6.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\co6.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\co7.png",
+      "PackagePath": "staticwebassets\\Template\\img\\co7.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\collapse.mp4",
+      "PackagePath": "staticwebassets\\Template\\img\\collapse.mp4"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\commercial-1.png",
+      "PackagePath": "staticwebassets\\Template\\img\\commercial-1.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\commercial-2.png",
+      "PackagePath": "staticwebassets\\Template\\img\\commercial-2.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\commercial-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\commercial-3.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\cover.png",
+      "PackagePath": "staticwebassets\\Template\\img\\cover.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\cover1.png",
+      "PackagePath": "staticwebassets\\Template\\img\\cover1.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\cover2.png",
+      "PackagePath": "staticwebassets\\Template\\img\\cover2.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\d1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\d1.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\d1.png",
+      "PackagePath": "staticwebassets\\Template\\img\\d1.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\d2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\d2.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\e1 (2).jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\e1 (2).jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\e2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\e2.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\em1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\em1.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\em2.png",
+      "PackagePath": "staticwebassets\\Template\\img\\em2.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\en1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\en1.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\h1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\h1.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\h2.png",
+      "PackagePath": "staticwebassets\\Template\\img\\h2.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\header-1.png",
+      "PackagePath": "staticwebassets\\Template\\img\\header-1.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\header-2.png",
+      "PackagePath": "staticwebassets\\Template\\img\\header-2.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\header-3.png",
+      "PackagePath": "staticwebassets\\Template\\img\\header-3.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\header-4.png",
+      "PackagePath": "staticwebassets\\Template\\img\\header-4.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\header-5 .png",
+      "PackagePath": "staticwebassets\\Template\\img\\header-5 .png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\header-6.png",
+      "PackagePath": "staticwebassets\\Template\\img\\header-6.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\hero-img.png",
+      "PackagePath": "staticwebassets\\Template\\img\\hero-img.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\ia1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\ia1.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\industrial-1.png",
+      "PackagePath": "staticwebassets\\Template\\img\\industrial-1.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\industrial-2.png",
+      "PackagePath": "staticwebassets\\Template\\img\\industrial-2.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\industrial-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\industrial-3.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\industrial-5.png",
+      "PackagePath": "staticwebassets\\Template\\img\\industrial-5.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\k1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\k1.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\k2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\k2.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Template\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\m1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\m1.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\m2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\m2.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\mO1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\mO1.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\mO3.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\mO3.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\o1-Photoroom.png",
+      "PackagePath": "staticwebassets\\Template\\img\\o1-Photoroom.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\o1.png",
+      "PackagePath": "staticwebassets\\Template\\img\\o1.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\oil2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\oil2.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\oil3.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\oil3.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\oil4.png",
+      "PackagePath": "staticwebassets\\Template\\img\\oil4.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\oil5.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\oil5.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\oil6.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\oil6.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\p1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\p1.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\p2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\p2.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\p3.png",
+      "PackagePath": "staticwebassets\\Template\\img\\p3.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\q1.png",
+      "PackagePath": "staticwebassets\\Template\\img\\q1.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\q2.png",
+      "PackagePath": "staticwebassets\\Template\\img\\q2.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\q3.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\q3.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\residential-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\residential-1.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\residential-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\residential-2.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\residential-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\residential-3.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\s1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\s1.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\s2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\s2.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\s7.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\s7.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\v1.png",
+      "PackagePath": "staticwebassets\\Template\\img\\v1.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\w1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\w1.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\w11.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\w11.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\w12.webp",
+      "PackagePath": "staticwebassets\\Template\\img\\w12.webp"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\w13.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\w13.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\w2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\w2.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\w3.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\w3.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\w4.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\w4.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\w5.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\w5.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\w6.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\w6.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\w7.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\w7.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\w8.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\w8.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\w9.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\w9.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\x11.png",
+      "PackagePath": "staticwebassets\\Template\\img\\x11.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\x3.png",
+      "PackagePath": "staticwebassets\\Template\\img\\x3.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\x4.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\x4.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\x5.png",
+      "PackagePath": "staticwebassets\\Template\\img\\x5.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\x6.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\x6.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\img\\x7.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\x7.jpg"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\js\\main.js",
+      "PackagePath": "staticwebassets\\Template\\js\\main.js"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\Template\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\Template\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Template\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Template\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Template\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Template\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Template\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Template\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Template\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Template\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Template\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Template\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Template\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Template\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Template\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\Template\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Template\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\Template\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\Template\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\Template\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\P2P\\all change done\\ALL DONE\\P2Psample1\\P2Psample1\\P2Psample1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.P2Psample1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.P2Psample1.props",
+      "PackagePath": "build\\P2Psample1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.P2Psample1.props",
+      "PackagePath": "buildMultiTargeting\\P2Psample1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.P2Psample1.props",
+      "PackagePath": "buildTransitive\\P2Psample1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

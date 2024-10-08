@@ -1,0 +1,205 @@
+﻿
+@{
+    ViewData["Title"] = "Service";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+ <!-- Header Start -->
+        <div class="container-fluid bg-breadcrumb">
+            <div class="container text-center py-5" style="max-width: 900px;">
+                <h4 class="text-white display-4 mb-4 wow fadeInDown" data-wow-delay="0.1s">Our Services</h4>
+                <ol class="breadcrumb d-flex justify-content-center mb-0 wow fadeInDown" data-wow-delay="0.3s">
+            <li class="breadcrumb-item"><a href="/User/index">Home</a></li>
+            <li class="breadcrumb-item"><a href="/User/Service">Service </a></li>
+                    <li class="breadcrumb-item active text-primary">Service</li>
+                </ol>    
+            </div>
+        </div>
+ <!-- Header End -->
+
+
+
+
+<!-- Services Start -->
+<div class="container-fluid service py-5">
+    <div class="container py-5">
+        <div class="d-flex flex-column mx-auto text-center mb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
+            <h4 class="text-primary">Our Services</h4>
+            <h1 class="display-4 mb-4">The Best Service For You</h1>
+            <p class="mb-0">
+                We offer a comprehensive range of tailored solutions to meet your unique needs. From expert consulting to hands-on implementation, we provide top-tier services designed to enhance your business. Our commitment to excellence ensures that you receive the best support, driving success and sustainable growth for your organization.
+            </p>
+        </div>
+        <div class="row g-5 align-items-center">
+            <div class="col-lg-3 wow fadeInLeft" data-wow-delay="0.2s">
+                <ul class="nav">
+                    <li class="nav-item me-lg-0 mb-4">
+                        <a class="py-3 px-5 active" data-bs-toggle="pill" href="#ServiceTab-1">
+                            <span>Software & Development Service</span>
+                        </a>
+                    </li>
+                    @*  <li class="nav-item me-lg-0 mb-4">
+                    <a class="py-3 px-5" data-bs-toggle="pill" href="#ServiceTab-2">
+                    <span>Residential</span>
+                    </a>
+                    </li> *@
+                    <li class="nav-item me-lg-0 mb-4 mb-lg-0">
+                        <a class="py-3 px-5" data-bs-toggle="pill" href="#ServiceTab-3">
+                            <span>Engineering Services</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-lg-9 wow fadeInRight" data-wow-delay="0.3s">
+                <div class="tab-content">
+                    <div id="ServiceTab-1" class="tab-pane fade show p-0 active">
+                        <div class="service-carousel owl-carousel">
+                            <div class="service-item">
+                                <img src="~/Template/img/commercial-1.png" class="img-fluid w-100" alt="">
+                                <div class="border border-top-0 p-4">
+                                    <h4 class="mb-3">Software Development</h4>
+                                    <p class="mb-4">
+                                        **Software Development**
+                                        We specialize in creating innovative, scalable, and user-friendly software solutions tailored to your business needs. Our expert team designs, develops, and deploys cutting-edge applications that enhance efficiency, streamline processes, and foster growth, ensuring seamless integration with your existing systems and future-ready technology.
+                                    </p>
+                                    <a class="btn btn-primary py-2 px-4" href="/User/WebService">Read More</a>
+                                </div>
+                            </div>
+                            <div class="service-item">
+                                <img src="~/Template/img/header-4.png" class="img-fluid w-100" alt="">
+                                <div class="border border-top-0 p-4">
+                                    <h4 class="mb-3">
+                                        Creative Design
+                                    </h4>
+                                    <p class="mb-4">
+                                        **Creative Design**
+                                        We provide innovative and visually stunning design solutions that captivate audiences. Our team transforms ideas into compelling visuals, ensuring your brand stands out and effectively communicates its message with creativity and impact.
+                                    </p>
+                                    <a class="btn btn-primary py-2 px-4" href="/User/DigitalService">Read More</a>
+                                </div>
+                            </div>
+                            <div class="service-item">
+                                <img src="~/Template/img/commercial-3.jpg" class="img-fluid w-100" alt="">
+                                <div class="border border-top-0 p-4">
+                                    <h4 class="mb-3">Digital Marketing</h4>
+                                    <p class="mb-4">
+                                        **Digital Marketing**
+                                        We craft data-driven digital marketing strategies to boost your online presence. By leveraging SEO, social media, and targeted campaigns, we help you engage your audience, increase brand visibility, and drive measurable growth.
+                                    </p>
+                                    <a class="btn btn-primary py-2 px-4" href="/User/CreativeService">Read More</a>
+                                </div>
+                            </div>
+                            <div class="service-item">
+                                <img src="~/Template/img/header-6.png" class="img-fluid w-100" alt="">
+                                <div class="border border-top-0 p-4">
+                                    <h4 class="mb-3">Staffing Service</h4>
+                                    <p class="mb-4">
+                                        **Staffing Services**
+                                        We provide tailored staffing solutions to meet your business needs. Our team connects you with skilled professionals, ensuring the right fit for your organization to enhance productivity, efficiency, and long-term success.
+                                    </p>
+                                    <a class="btn btn-primary py-2 px-4" href="/User/StaffingService">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="ServiceTab-2" class="tab-pane fade show p-0">
+                        <div class="service-carousel owl-carousel">
+                            <div class="service-item">
+                                <img src="~/Template/img/residential-1.jpg" class="img-fluid w-100" alt="">
+                                <div class="border border-top-0 p-4">
+                                    <h4 class="mb-3">Electrical Services</h4>
+                                    <p class="mb-4">
+                                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
+                                    </p>
+                                    <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
+                                </div>
+                            </div>
+                            <div class="service-item">
+                                <img src="~/Template/img/residential-2.jpg" class="img-fluid w-100" alt="">
+                                <div class="border border-top-0 p-4">
+                                    <h4 class="mb-3">Security Systems</h4>
+                                    <p class="mb-4">
+                                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
+                                    </p>
+                                    <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
+                                </div>
+                            </div>
+                            <div class="service-item">
+                                <img src="~/Template/img/residential-3.jpg" class="img-fluid w-100" alt="">
+                                <div class="border border-top-0 p-4">
+                                    <h4 class="mb-3">Air Conditioner</h4>
+                                    <p class="mb-4">
+                                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
+                                    </p>
+                                    <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="ServiceTab-3" class="tab-pane fade show p-0">
+                        <div class="service-carousel owl-carousel">
+                            <div class="service-item">
+                                <img src="~/Template/img/em2.png" class="img-fluid w-100" alt="">
+                                <div class="border border-top-0 p-4">
+                                    <h4 class="mb-3">EV-Mobility</h4>
+                                    <p class="mb-4">
+                                        **EV-Mobility**
+                                        We specialize in developing cutting-edge solutions for electric vehicle (EV) mobility, including two-wheelers and three-wheelers. Our focus is on innovation, sustainability, and performance, helping shape the future of eco-friendly transportation with advanced engineering and design expertise.
+                                    </p>
+                                    <a class="btn btn-primary py-2 px-4" href="/User/GeneralEngineering">Read More</a>
+                                </div>
+                            </div>
+                            <div class="service-item">
+                                <img src="~/Template/img/s2.jpg" class="img-fluid w-100" alt="">
+                                <div class="border border-top-0 p-4">
+                                    <h4 class="mb-3">Product Design And Analysis</h4>
+                                    <p class="mb-4">
+
+                                        Product design and analysis involve creating and evaluating products to ensure they meet functional, aesthetic, and performance criteria.
+                                    </p>
+                                    <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
+                                </div>
+                            </div>
+                            <div class="service-item">
+                                <img src="~/Template/img/C1.jpg" class="img-fluid w-100" alt="">
+                                <div class="border border-top-0 p-4">
+                                    <h4 class="mb-3"> General Engineering & Automations</h4>
+                                    <p class="mb-4">
+                                        Electric mobility is undoubtedly the future, and its presence is here to stay. However, the electrification of drivetrains—whether fully or partially electric—has a significant impact on passenger comfort and ride quality. We are pioneering advanced technologies to enhance the comfort, safety, and overall travel experience in both light and commercial electric vehicles, ensuring smooth and relaxed journeys.
+                                        We are at the forefront of developing innovative electric mobility drone solutions, combining advanced technology with sustainability.
+                                    </p>
+                                    <a class="btn btn-primary py-2 px-4" href="/User/GeneralEngineering">Read More</a>
+                                </div>
+                            </div>
+                            <div class="service-item">
+                                <img src="~/Template/img/industrial-4.png" class="img-fluid w-100" alt="">
+                                <div class="border border-top-0 p-4">
+                                    <h4 class="mb-3"> Agricultural Solutions</h4>
+                                    <p class="mb-4">
+                                        Agricultural solutions can encompass a wide range of technologies and innovations aimed at improving farming efficiency, productivity, and sustainability. Here
+                                    </p>
+                                    <a class="btn btn-primary py-2 px-4" href="/User/AgriculturalSolutions">Read More</a>
+                                </div>
+                            </div>
+
+                            <div class="service-item">
+                                <img src="~/Template/img/C3.jpg" class="img-fluid w-100" alt="">
+                                <div class="border border-top-0 p-4">
+                                    <h4 class="mb-3">
+                                        Oil & Gas Solutions
+                                    </h4>
+                                    <p class="mb-4">
+
+                                        In the oil and gas industry, specialized car equipment is crucial for operations, safety, and efficiency.
+                                    </p>
+                                    <a class="btn btn-primary py-2 px-4" href="/User/OilandGasSolution">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Services End -->

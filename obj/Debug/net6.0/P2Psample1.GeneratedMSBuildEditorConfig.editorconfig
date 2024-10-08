@@ -1,0 +1,119 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = P2Psample1
+build_property.RootNamespace = P2Psample1
+build_property.ProjectDir = D:\P2P\all change done\ALL DONE\P2Psample1\P2Psample1\P2Psample1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\P2P\all change done\ALL DONE\P2Psample1\P2Psample1\P2Psample1
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/P2P/all change done/ALL DONE/P2Psample1/P2Psample1/P2Psample1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P2P/all change done/ALL DONE/P2Psample1/P2Psample1/P2Psample1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P2P/all change done/ALL DONE/P2Psample1/P2Psample1/P2Psample1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P2P/all change done/ALL DONE/P2Psample1/P2Psample1/P2Psample1/Views/Shared/_Layout1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P2P/all change done/ALL DONE/P2Psample1/P2Psample1/P2Psample1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P2P/all change done/ALL DONE/P2Psample1/P2Psample1/P2Psample1/Views/User/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P2P/all change done/ALL DONE/P2Psample1/P2Psample1/P2Psample1/Views/User/AgriculturalSolutions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBZ3JpY3VsdHVyYWxTb2x1dGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P2P/all change done/ALL DONE/P2Psample1/P2Psample1/P2Psample1/Views/User/AVLCOMPANY.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBVkxDT01QQU5ZLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P2P/all change done/ALL DONE/P2Psample1/P2Psample1/P2Psample1/Views/User/Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxCbG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P2P/all change done/ALL DONE/P2Psample1/P2Psample1/P2Psample1/Views/User/Careers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDYXJlZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P2P/all change done/ALL DONE/P2Psample1/P2Psample1/P2Psample1/Views/User/ContactFrom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDb250YWN0RnJvbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P2P/all change done/ALL DONE/P2Psample1/P2Psample1/P2Psample1/Views/User/CreativeService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGl2ZVNlcnZpY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P2P/all change done/ALL DONE/P2Psample1/P2Psample1/P2Psample1/Views/User/DigitalService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEaWdpdGFsU2VydmljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P2P/all change done/ALL DONE/P2Psample1/P2Psample1/P2Psample1/Views/User/EngineeringService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFbmdpbmVlcmluZ1NlcnZpY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P2P/all change done/ALL DONE/P2Psample1/P2Psample1/P2Psample1/Views/User/GeneralEngineering.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxHZW5lcmFsRW5naW5lZXJpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P2P/all change done/ALL DONE/P2Psample1/P2Psample1/P2Psample1/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P2P/all change done/ALL DONE/P2Psample1/P2Psample1/P2Psample1/Views/User/Manufacture.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxNYW51ZmFjdHVyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P2P/all change done/ALL DONE/P2Psample1/P2Psample1/P2Psample1/Views/User/OilandGasSolution.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxPaWxhbmRHYXNTb2x1dGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P2P/all change done/ALL DONE/P2Psample1/P2Psample1/P2Psample1/Views/User/Product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P2P/all change done/ALL DONE/P2Psample1/P2Psample1/P2Psample1/Views/User/Service.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxTZXJ2aWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P2P/all change done/ALL DONE/P2Psample1/P2Psample1/P2Psample1/Views/User/StaffingService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxTdGFmZmluZ1NlcnZpY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P2P/all change done/ALL DONE/P2Psample1/P2Psample1/P2Psample1/Views/User/WebService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxXZWJTZXJ2aWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P2P/all change done/ALL DONE/P2Psample1/P2Psample1/P2Psample1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P2P/all change done/ALL DONE/P2Psample1/P2Psample1/P2Psample1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P2P/all change done/ALL DONE/P2Psample1/P2Psample1/P2Psample1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-eix7d23akc
